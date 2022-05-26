@@ -43,3 +43,5 @@ You are an undercover investigator with a false name. Kira can't kill you,
 
              Near:
 If L is dead, You can see Players roles
+
+all players see their roles then try to catch kira with the information provided they can kill kira with the votes if the team fail to catch kira in the first day (more then 2 player survive with kira ) the day 2 come with the same logic 
