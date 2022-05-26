@@ -1,5 +1,7 @@
 # kira
 
+![image](https://i.ibb.co/8sNWDZJ/kira.png)
+
 A new Flutter project.
 
 kira is game application made with flutter :
