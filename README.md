@@ -5,6 +5,16 @@
 A new Flutter project.
 
 kira is game application made with flutter :
+
+so basically the game is build from anime called kire where the character have shinigami and can kill people by writing their name in the death note , 
+people sit next to each other create characters with their name thet press start ,
+1- each player will take the phone see his role then press next and handover the phone to the next player,
+-the game will give their character roles in the game, there is 12 characters
+characters :
+(kira team) there is characters to help kira named misa and the other will try to catch kira ,
+kira can kill by picking the name,
+(L team) the other characters  will provide information will lead to kira so they can know who got the kira role and kill him with the vote in the last of every round 
+
  the characters : 
 
             kira :
